@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Atherv Vidhate
-avidhate@ucsd.edu
+Atherv Vidhate and Zubin Sannakkayala
